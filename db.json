@@ -2,5 +2,9 @@
  "users" : [
   { "id" : 1, "name": "Manjil" },
   { "id" : 2, "name": "John" }
+ ],
+ "questions":[
+  { "id" : 1, "question": "What is your name?", "optA" : "Manjil", "optB" : "Shamsher", "optC": "Thapa", "Answer":1 },
+  { "id" : 2, "question": "What is the capital city of Denmark?", "optA" : "Odense", "optB" : "Aarhus", "optC": "Cph", "Answer":3 },
  ]
 }
